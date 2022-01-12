@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\HW.Practice.Ellipse\bin\Debug\HW.Practice.Ellipse.exe.config
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\HW.Practice.Ellipse\bin\Debug\HW.Practice.Ellipse.exe
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\HW.Practice.Ellipse\bin\Debug\HW.Practice.Ellipse.pdb
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\HW.Practice.Ellipse\obj\Debug\HW.Practice.Ellipse.Ellipse.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\HW.Practice.Ellipse\obj\Debug\HW.Practice.Ellipse.Properties.Resources.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\HW.Practice.Ellipse\obj\Debug\HW.Practice.Ellipse.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\HW.Practice.Ellipse\obj\Debug\HW.Practice.Ellipse.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\HW.Practice.Ellipse\obj\Debug\HW.Practice.Ellipse.exe
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\HW.Practice.Ellipse\obj\Debug\HW.Practice.Ellipse.pdb
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\HW.Practice.Ellipse\obj\Debug\HW.Practice.Ellipse.csproj.AssemblyReference.cache
