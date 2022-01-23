@@ -1,0 +1,9 @@
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.Task3\bin\Debug\ITMO.PAI.Lab3.Task3.exe.config
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.Task3\bin\Debug\ITMO.PAI.Lab3.Task3.exe
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.Task3\bin\Debug\ITMO.PAI.Lab3.Task3.pdb
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.Task3\obj\Debug\ITMO.PAI.Lab3.Task3.WinButNum.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.Task3\obj\Debug\ITMO.PAI.Lab3.Task3.Properties.Resources.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.Task3\obj\Debug\ITMO.PAI.Lab3.Task3.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.Task3\obj\Debug\ITMO.PAI.Lab3.Task3.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.Task3\obj\Debug\ITMO.PAI.Lab3.Task3.exe
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.Task3\obj\Debug\ITMO.PAI.Lab3.Task3.pdb
