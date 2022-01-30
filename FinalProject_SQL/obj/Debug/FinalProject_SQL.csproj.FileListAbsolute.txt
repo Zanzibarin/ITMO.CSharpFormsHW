@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\FinalProject_SQL\obj\Debug\FinalProject_SQL.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\FinalProject_SQL\obj\Debug\FinalProject_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\FinalProject_SQL\bin\Debug\FinalProject_SQL.exe.config
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\FinalProject_SQL\bin\Debug\FinalProject_SQL.exe
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\FinalProject_SQL\bin\Debug\FinalProject_SQL.pdb
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\FinalProject_SQL\obj\Debug\FinalProject_SQL.Properties.Resources.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\FinalProject_SQL\obj\Debug\FinalProject_SQL.exe
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\FinalProject_SQL\obj\Debug\FinalProject_SQL.pdb
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\FinalProject_SQL\obj\Debug\FinalProject_SQL.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\FinalProject_SQL\obj\Debug\FinalProject_SQL.Form1.resources
