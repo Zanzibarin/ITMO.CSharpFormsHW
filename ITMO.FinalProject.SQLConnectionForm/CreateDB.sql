@@ -27,7 +27,7 @@ CREATE TABLE [dbo].[Orders](
 	[FirstName] [nvarchar](50) NOT NULL,
 	[LastName] [nvarchar](50) NOT NULL,
 	[HouseNameShort] [nvarchar](50) NOT NULL,
-	[OrdertTextShort] [nvarchar](50) NOT NULL,
+	[OrderTextShort] [nvarchar](50) NOT NULL,
 	[OrderURL] [text] NULL,
 	[DeliveryDate] [date] NULL,
  CONSTRAINT [Id] PRIMARY KEY CLUSTERED ([Id] ASC))
