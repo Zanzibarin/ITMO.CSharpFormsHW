@@ -17,7 +17,7 @@ GO
 USE [Orders]
 GO
 
-/****** Object:  Table [dbo].[Gifts]    Script Date: 29.01.2022 17:04:50 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
