@@ -1,0 +1,11 @@
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\WindowsFormsApp.TriForm\bin\Debug\WindowsFormsApp.TriForm.exe.config
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\WindowsFormsApp.TriForm\bin\Debug\WindowsFormsApp.TriForm.exe
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\WindowsFormsApp.TriForm\bin\Debug\WindowsFormsApp.TriForm.pdb
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\WindowsFormsApp.TriForm\obj\Debug\WindowsFormsApp.TriForm.Properties.Resources.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\WindowsFormsApp.TriForm\obj\Debug\WindowsFormsApp.TriForm.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\WindowsFormsApp.TriForm\obj\Debug\WindowsFormsApp.TriForm.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\WindowsFormsApp.TriForm\obj\Debug\WindowsFormsApp.TriForm.exe
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\WindowsFormsApp.TriForm\obj\Debug\WindowsFormsApp.TriForm.pdb
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\WindowsFormsApp.TriForm\obj\Debug\WindowsFormsApp.TriForm.nForm.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\WindowsFormsApp.TriForm\obj\Debug\WindowsFormsApp.TriForm.Ellipse.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\WindowsFormsApp.TriForm\obj\Debug\WindowsFormsApp.TriForm.csproj.AssemblyReference.cache
