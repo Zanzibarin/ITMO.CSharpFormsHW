@@ -1,9 +1,0 @@
-C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.DBConnection\bin\Debug\ITMO.PAI.DBConnection.exe.config
-C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.DBConnection\bin\Debug\ITMO.PAI.DBConnection.exe
-C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.DBConnection\bin\Debug\ITMO.PAI.DBConnection.pdb
-C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.DBConnection\obj\Debug\ITMO.PAI.DBConnection.Form1.resources
-C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.DBConnection\obj\Debug\ITMO.PAI.DBConnection.Properties.Resources.resources
-C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.DBConnection\obj\Debug\ITMO.PAI.DBConnection.csproj.GenerateResource.cache
-C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.DBConnection\obj\Debug\ITMO.PAI.DBConnection.csproj.CoreCompileInputs.cache
-C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.DBConnection\obj\Debug\ITMO.PAI.DBConnection.exe
-C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.DBConnection\obj\Debug\ITMO.PAI.DBConnection.pdb
