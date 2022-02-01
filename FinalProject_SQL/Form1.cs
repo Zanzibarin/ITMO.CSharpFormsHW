@@ -19,13 +19,13 @@ namespace FinalProject_SQL
         SqlDataAdapter adapt;
         //ID variable used in Updating and Deleting Record  
         int Id = 0;
-        public Form1()
+        
+	public Form1()
         {
             InitializeComponent();
             DisplayData();
         }
 
-        //Загрузка данных в DataGridView  
         private void DisplayData()
         {
             con.Open();
@@ -35,7 +35,7 @@ namespace FinalProject_SQL
             dataGridView1.DataSource = dt;
             con.Close();
         }
-        //Очистка окна ввода (textBox для ввода)  
+        //Очистка окна ввода
         private void ClearData()
         {
             textBoxFirstName.Text = "";
@@ -122,7 +122,7 @@ namespace FinalProject_SQL
             }
             else
             {
-                MessageBox.Show("Пожалуйста выделите строку для обновления");
+                MessageBox.Show("Выделите строку, которую хотите обновить");
             }
         }
 
