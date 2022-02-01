@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.T1.ControlLibrary\bin\Debug\ITMO.PAI.Lab3.T1.ControlLibrary.exe.config
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.T1.ControlLibrary\bin\Debug\ITMO.PAI.Lab3.T1.ControlLibrary.exe
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.T1.ControlLibrary\bin\Debug\ITMO.PAI.Lab3.T1.ControlLibrary.pdb
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.T1.ControlLibrary\obj\Debug\ITMO.PAI.Lab3.T1.ControlLibrary.ControlLibrary.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.T1.ControlLibrary\obj\Debug\ITMO.PAI.Lab3.T1.ControlLibrary.Properties.Resources.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.T1.ControlLibrary\obj\Debug\ITMO.PAI.Lab3.T1.ControlLibrary.UserControl1.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.T1.ControlLibrary\obj\Debug\ITMO.PAI.Lab3.T1.ControlLibrary.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.T1.ControlLibrary\obj\Debug\ITMO.PAI.Lab3.T1.ControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.T1.ControlLibrary\obj\Debug\ITMO.PAI.Lab3.T1.ControlLibrary.exe
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.PAI.Lab3.T1.ControlLibrary\obj\Debug\ITMO.PAI.Lab3.T1.ControlLibrary.pdb
