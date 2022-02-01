@@ -1,0 +1,11 @@
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.WinForm.Lab2.Task3\bin\Debug\MdiApplication.exe.config
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.WinForm.Lab2.Task3\bin\Debug\MdiApplication.exe
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.WinForm.Lab2.Task3\bin\Debug\MdiApplication.pdb
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.WinForm.Lab2.Task3\obj\Debug\ITMO.WinForm.Lab2.Task3.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.WinForm.Lab2.Task3\obj\Debug\MdiApplication.ChildForm.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.WinForm.Lab2.Task3\obj\Debug\MdiApplication.ParentForm.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.WinForm.Lab2.Task3\obj\Debug\MdiApplication.Properties.Resources.resources
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.WinForm.Lab2.Task3\obj\Debug\ITMO.WinForm.Lab2.Task3.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.WinForm.Lab2.Task3\obj\Debug\ITMO.WinForm.Lab2.Task3.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.WinForm.Lab2.Task3\obj\Debug\MdiApplication.exe
+C:\Users\Александр\Desktop\ИТМО\05 - Разработка Windows-приложений на C#\WinApp\HW\ITMO.CSharp.WinApp.HomeWork.PAI\ITMO.WinForm.Lab2.Task3\obj\Debug\MdiApplication.pdb
